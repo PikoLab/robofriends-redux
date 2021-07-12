@@ -1,7 +1,9 @@
 # Get Started with Creating React App
 ```node.js 
-npm install
-npm start
+$ npm install 
+$ npx create-react-app robofriends
+$ cd robofriends
+$ npm start 
 ```
 
 # Key Points of Redux
@@ -18,10 +20,10 @@ npm start
 # Packages
 
 ```
-npm install redux 
-npm install react-redux
-npm install redux-logger
-npm install redux-thunk
+$ npm install redux 
+$ npm install react-redux
+$ npm install redux-logger
+$ npm install redux-thunk
 ```
 
 
