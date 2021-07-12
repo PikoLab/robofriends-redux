@@ -1,4 +1,29 @@
-# Key Point of Redux
+# Get Started with Creating React App
+```node.js 
+npm install
+npm start
+```
+
+# Key Points of Redux
+
+1. Action => set each constant with type & payload
+2. Reducer => set state and function
+3. Store => connect with action & reducer 
+
+   * `{mapStateToProps, mapDispatchToProps}`
+   * `{useSelector, useDispatch}`
+
+4. Make changes
+
+# Packages
+
+```
+npm install redux 
+npm install react-redux
+npm install redux-logger
+npm install redux-thunk
+```
+
 
 # Redux with React Hooks
 
@@ -39,7 +64,6 @@ const App=() => {
             </div>);  
     }
     
-
 export default App;
 
 ```
