@@ -3,7 +3,6 @@ import Card from './Card'
 
 const CardList=({robots}) =>{
     return(
-        // forloop in div >> by map()
         <div>{
             robots.map((user,i) =>{
                 return(
