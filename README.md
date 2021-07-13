@@ -8,7 +8,7 @@ $ npm start
 
 # Key Points of Redux
 
-Redux is a good library for State Management, especially for large states. 
+Redux is a good library for State Management, especially for managing large states. 
 Multiple components can share and use the same state.
 Here is the Redux Application Data Flow. 
 
